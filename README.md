@@ -2,4 +2,4 @@
 
 
 Testing UI of yandex-scooter. 
-Cheking the process of making order, using crossbrousing parameterized tests, Selenium WebDriver
+Cheking the process of making order, using cross-browsering parameterized tests, Selenium WebDriver 
